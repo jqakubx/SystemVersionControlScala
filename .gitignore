@@ -1,4 +1,4 @@
 *.docx
 out
 .idea
-.class
+*.class
